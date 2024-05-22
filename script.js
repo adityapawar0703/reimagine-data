@@ -12,5 +12,6 @@ gsap.from("#img6",{
     y:500,
     opacity:0,
     duration:2,
+    transform: "rotateZ(360",
 })
 
